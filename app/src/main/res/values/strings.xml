@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Kalkulator Bangun Datar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kalkulator_bangun_datar">Kalkulator Bangun Datar</string>
+    <string name="persegi">Persegi</string>
+    <string name="persegi_panjang">Persegi Panjang</string>
+    <string name="trapesium">Trapesium</string>
+    <string name="jajargenjang">Jajargenjang</string>
+    <string name="lingkaran">Lingkaran</string>
+    <string name="layang_layang">Layang-Layang</string>
+    <string name="segitiga">Segitiga</string>
+    <string name="belah_ketupat">Belah Ketupat</string>
+    <string name="luas_persegi">Luas Persegi</string>
+    <string name="sisi">Sisi</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="luas_persegi_panjang">Luas Persegi Panjang</string>
+    <string name="luas_trapesium">Luas Trapesium</string>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="t">t</string>
+    <string name="luas_jajargenjang">Luas Jajargenjang</string>
+    <string name="luas_lingkaran">Luas Lingkaran</string>
+    <string name="r">r</string>
+    <string name="luas_layang_layang">Luas Layang-Layang</string>
+    <string name="d1">d1</string>
+    <string name="d2">d2</string>
+    <string name="luas_segitiga">Luas Segitiga</string>
+    <string name="luas_belah_ketupat">Luas Belah Ketupat</string>
+    <string name="keliling_persegi">Keliling Persegi</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="keliling_persegi_panjang">Keliling Persegi Panjang</string>
+    <string name="keliling_trapesium">Keliling Trapesium</string>
+    <string name="c">c</string>
+    <string name="d">d</string>
+    <string name="keliling_jajargenjang">Keliling Jajargenjang</string>
+    <string name="keliling_lingkaran">Keliling Lingkaran</string>
+    <string name="keliling_layang_layang">Keliling Layang-Layang</string>
+    <string name="b_c">b = c</string>
+    <string name="a_d">a = d</string>
+    <string name="keliling_segitiga">Keliling Segitiga</string>
+    <string name="keliling_belah_ketupat">Keliling Belah Ketupat</string>
+    <string name="a_b_c_d">a = b = c = d</string>
+</resources>
